@@ -1,16 +1,16 @@
 body{
-    background-color: white;
-    color: blue;
+    background-color:rgb(3, 3, 27);
+    color: white;
     font-family: 'DM Sans', sans-serif;
     margin: 200px;
     margin-top: 80px;
     margin-bottom: 80px;
 }
 .logo{
-    color: black;
+    color:yellow;
 }
 .menu{
-  color: blue;
+  color: orange;
   display: flex;
   justify-content: space-around;
   width: 200px;
