@@ -1,9 +1,38 @@
 body{
-    background-color: #7f00ff;
-    color: white;
+    background-color: white;
+    color: blue;
     font-family: 'DM Sans', sans-serif;
-    margin: 100px;
+    margin: 200px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.logo{
+    color: black;
 }
 .menu{
-    float: right;
+  color: blue;
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+
+
 }
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+}
+a{
+    text-decoration: none;
+}
+.abcd{
+    display: flex;
+    flex-flow: row wrap; 
+    
+}
+p{
+    margin-left: auto;
+
+}
+
