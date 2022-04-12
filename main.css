@@ -1,0 +1,9 @@
+body{
+    background-color: #7f00ff;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    margin: 100px;
+}
+.menu{
+    float: right;
+}
